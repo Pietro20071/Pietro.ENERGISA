@@ -1,15 +1,49 @@
+#topo{
+font-family: monospace ;
+position: relative;
+height: 50vh;
+text-align: center;
+display: flex;
+flex-direction:column ;
+justify-content: center;
+align-items: center;
+font-weight: 200;
+text-shadow: 10px 10px 15px rgba(red, green, blue, alpha);
+color: gold;
+background: url(img/foto.jpg)
+
+}
+
+#h1_topo{
+font-size: 3em;
+margin: 0;
+
+}
+
+#p_topo{
+ font-family: Arial, Helvetica, sans-serif;
+ margin: 10px 0 0;
+
+}
+
+#btn{
+font-family: fantasy ;
+font-weight: 300;
+font-size: 14px;
+color: gold;
+background-color: azure;
+padding: 10px 30px;
+border: solid gainsboro 2px;
+border-radius: 50px;
+transition: 100ms;
+display: flex;
+flex-direction: row;
+align-items: center;
+cursor: pointer;
+margin-top: 3em;
 
 
-
-
-
-
-
-
-
-
-
-
+}
 
 
 
